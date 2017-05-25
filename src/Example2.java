@@ -7,11 +7,11 @@ public class Example2 {
     public static void main(String[] args) {
         int num;
 
-        num = 100;
+        num = 200;
 
         System.out.println("This is num: " + num);
 
-        num = num * 2;
+        num = num * 3;
 
         System.out.print("The value of num * 2 is ");
 
